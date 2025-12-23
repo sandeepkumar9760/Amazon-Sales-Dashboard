@@ -24,7 +24,5 @@ The dashboard helps stakeholders make **data-driven decisions** by identifying t
 
 ---
 
-## 📸 Dashboard Preview
-images/
- └── dashboard_preview.png
+
 
